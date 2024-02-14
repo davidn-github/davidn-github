@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+--!>
+
 - 🔭 I’m currently working on optimizing digitial transformation technology 
 - 🌱 I’m currently learning github, value streams, terraform
 - 👯 I’m looking to collaborate on anything interesting
